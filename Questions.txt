@@ -1,0 +1,5 @@
+1) WAP in python to greet yourself eg. Hello Vaibhav
+2) WAP in python to add 2 numbers
+3) WAP in python to subtract 2 numbers
+4) WAP in python to Multiply 2 numbers
+5) WAP in python to modulo 2 numbers
